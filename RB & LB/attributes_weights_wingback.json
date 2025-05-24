@@ -1,14 +1,16 @@
 {
-  "Speed": 0.16,
-  "Acceleration": 0.14,
-  "Stamina": 0.15,
-  "Defensive Awareness": 0.12,
-  "Tackling": 0.1,
-  "Physical Contact": 0.07,
-  "Balance": 0.06,
-  "Ball Control": 0.06,
-  "Low Pass": 0.05,
-  "Offensive Awareness": 0.04,
-  "Dribbling": 0.03,
-  "Jump": 0.02
+  "Speed": 0.12,
+  "Acceleration": 0.11,
+  "Stamina": 0.11,
+  "Low Pass": 0.1,
+  "Ball Control": 0.09,
+  "Dribbling": 0.08,
+  "Defensive Awareness": 0.08,
+  "Lofted Pass": 0.07,
+  "Tackling": 0.06,
+  "Balance": 0.05,
+  "Defensive Engagement": 0.04,
+  "Physical Contact": 0.04,
+  "Curl": 0.03,
+  "Aggression": 0.02
 }

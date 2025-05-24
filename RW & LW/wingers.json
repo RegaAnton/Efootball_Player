@@ -928,5 +928,67 @@
       "Balance": 92,
       "Stamina": 89
     }
+  },
+  {
+    "name": "Lionel Messi",
+    "attributes": {
+      "Offensive Awareness": 88,
+      "Ball Control": 96,
+      "Dribbling": 97,
+      "Tight Possession": 90,
+      "Low Pass": 79,
+      "Lofted Pass": 79,
+      "Finishing": 88,
+      "Heading": 64,
+      "Place Kicking": 80,
+      "Curl": 90,
+      "Defensive Awareness": 54,
+      "Defensive Engagement": 63,
+      "Tackling": 56,
+      "Aggression": 66,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 93,
+      "Acceleration": 98,
+      "Kicking Power": 82,
+      "Jump": 65,
+      "Physical Contact": 59,
+      "Balance": 93,
+      "Stamina": 88
+    }
+  },
+  {
+    "name": "Neymar Jr",
+    "attributes": {
+      "Offensive Awareness": 81,
+      "Ball Control": 99,
+      "Dribbling": 102,
+      "Tight Possession": 101,
+      "Low Pass": 85,
+      "Lofted Pass": 83,
+      "Finishing": 81,
+      "Heading": 52,
+      "Place Kicking": 92,
+      "Curl": 92,
+      "Defensive Awareness": 47,
+      "Defensive Engagement": 49,
+      "Tackling": 48,
+      "Aggression": 50,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 90,
+      "Acceleration": 93,
+      "Kicking Power": 78,
+      "Jump": 53,
+      "Physical Contact": 55,
+      "Balance": 91,
+      "Stamina": 84
+    }
   }
 ]

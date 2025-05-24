@@ -1,14 +1,15 @@
 {
-  "Defensive Awareness": 0.18,
-  "Defensive Engagement": 0.15,
-  "Tackling": 0.12,
-  "Aggression": 0.1,
-  "Low Pass": 0.1,
-  "Ball Control": 0.06,
-  "Tight Possession": 0.04,
+  "Defensive Awareness": 0.15,
+  "Low Pass": 0.13,
+  "Ball Control": 0.12,
+  "Tackling": 0.1,
+  "Tight Possession": 0.09,
+  "Defensive Engagement": 0.08,
   "Stamina": 0.08,
   "Physical Contact": 0.06,
+  "Aggression": 0.05,
   "Balance": 0.04,
-  "Speed": 0.04,
+  "Lofted Pass": 0.04,
+  "Speed": 0.03,
   "Acceleration": 0.03
 }

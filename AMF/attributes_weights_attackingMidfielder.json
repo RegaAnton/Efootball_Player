@@ -1,14 +1,14 @@
 {
+  "Offensive Awareness": 0.16,
   "Ball Control": 0.14,
-  "Dribbling": 0.13,
+  "Dribbling": 0.12,
+  "Low Pass": 0.11,
   "Tight Possession": 0.1,
-  "Low Pass": 0.1,
+  "Finishing": 0.08,
+  "Balance": 0.07,
+  "Curl": 0.06,
   "Lofted Pass": 0.05,
-  "Acceleration": 0.1,
-  "Speed": 0.08,
-  "Balance": 0.05,
-  "Stamina": 0.05,
-  "Finishing": 0.1,
-  "Offensive Awareness": 0.08,
-  "Curl": 0.02
+  "Acceleration": 0.04,
+  "Place Kicking": 0.04,
+  "Speed": 0.03
 }
