@@ -1,0 +1,14 @@
+{
+  "Speed": 0.16,
+  "Acceleration": 0.14,
+  "Stamina": 0.15,
+  "Defensive Awareness": 0.12,
+  "Tackling": 0.1,
+  "Physical Contact": 0.07,
+  "Balance": 0.06,
+  "Ball Control": 0.06,
+  "Low Pass": 0.05,
+  "Offensive Awareness": 0.04,
+  "Dribbling": 0.03,
+  "Jump": 0.02
+}

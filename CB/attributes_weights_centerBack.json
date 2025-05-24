@@ -1,0 +1,12 @@
+{
+  "Defensive Awareness": 0.2,
+  "Tackling": 0.18,
+  "Defensive Engagement": 0.15,
+  "Aggression": 0.1,
+  "Physical Contact": 0.1,
+  "Jump": 0.09,
+  "Balance": 0.05,
+  "Stamina": 0.05,
+  "Speed": 0.04,
+  "Acceleration": 0.04
+}

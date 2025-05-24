@@ -1,0 +1,35 @@
+SAYA NANTI AKAN MEMINTA UBAH KEDALAM FORMAT JSON SEPERTI INI
+
+{
+    "name": "Vinicius Junior",
+    "attributes": {
+      "Offensive Awareness": 87,
+      "Ball Control": 92,
+      "Dribbling": 93,
+      "Tight Possession": 89,
+      "Low Pass": 74,
+      "Lofted Pass": 74,
+      "Finishing": 88,
+      "Heading": 57,
+      "Place Kicking": 67,
+      "Curl": 86,
+      "Defensive Awareness": 50,
+      "Defensive Engagement": 70,
+      "Tackling": 51,
+      "Aggression": 60,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 95,
+      "Acceleration": 95,
+      "Kicking Power": 84,
+      "Jump": 67,
+      "Physical Contact": 67,
+      "Balance": 92,
+      "Stamina": 89
+    }
+  }
+
+  

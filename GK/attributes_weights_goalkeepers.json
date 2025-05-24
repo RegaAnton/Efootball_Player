@@ -1,0 +1,13 @@
+{
+  "Goalkeeping": 0.2,
+  "GK Catching": 0.15,
+  "GK Parrying": 0.15,
+  "GK Reflexes": 0.15,
+  "GK Reach": 0.15,
+  "Jump": 0.08,
+  "Physical Contact": 0.04,
+  "Balance": 0.03,
+  "Stamina": 0.02,
+  "Speed": 0.02,
+  "Acceleration": 0.01
+}
