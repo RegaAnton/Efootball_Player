@@ -1,6 +1,6 @@
 [
   {
-    "name": "Benjamin Lecomte Defensive Goalkeeper",
+    "name": "Benjamin Lecomte",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -31,7 +31,7 @@
     }
   },
   {
-    "name": "Jan Oblak Defensive Goalkeeper A",
+    "name": "Jan Oblak A",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 62,
@@ -62,7 +62,7 @@
     }
   },
   {
-    "name": "Jan Oblak Defensive Goalkeeper B",
+    "name": "Jan Oblak B",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 62,
@@ -93,7 +93,7 @@
     }
   },
   {
-    "name": "Jan Oblak Defensive Goalkeeper C",
+    "name": "Jan Oblak C",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 62,
@@ -124,7 +124,7 @@
     }
   },
   {
-    "name": "Lucas Chevalier Defensive Goalkeeper A",
+    "name": "Lucas Chevalier A",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 57,
@@ -155,7 +155,7 @@
     }
   },
   {
-    "name": "Lucas Chevalier Defensive Goalkeeper B",
+    "name": "Lucas Chevalier B",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 57,
@@ -186,7 +186,7 @@
     }
   },
   {
-    "name": "Lucas Chevalier Defensive Goalkeeper C",
+    "name": "Lucas Chevalier C",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 57,
@@ -217,7 +217,7 @@
     }
   },
   {
-    "name": "Thibaut Courtois Defensive Goalkeeper",
+    "name": "Thibaut Courtois",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 60,
@@ -248,7 +248,7 @@
     }
   },
   {
-    "name": "Vitor Baia Defensive Goalkeeper",
+    "name": "Vitor Baia",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -279,7 +279,7 @@
     }
   },
   {
-    "name": "Yann Sommer Defensive Goalkeeper",
+    "name": "Yann Sommer",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 62,
@@ -310,7 +310,7 @@
     }
   },
   {
-    "name": "Anatolii Trubin Offensive Goalkeeper",
+    "name": "Anatolii Trubin",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -341,7 +341,7 @@
     }
   },
   {
-    "name": "Andre Onana Offensive Goalkeeper",
+    "name": "Andre Onana",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 54,
@@ -372,7 +372,7 @@
     }
   },
   {
-    "name": "Bart Verbruggen Offensive Goalkeeper",
+    "name": "Bart Verbruggen",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -403,7 +403,7 @@
     }
   },
   {
-    "name": "Ederson Moraes Offensive Goalkeeper",
+    "name": "Ederson Moraes",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 60,
@@ -434,7 +434,7 @@
     }
   },
   {
-    "name": "Fernando Muslera Offensive Goalkeeper",
+    "name": "Fernando Muslera",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -465,7 +465,7 @@
     }
   },
   {
-    "name": "Gregor Kobel Offensive Goalkeeper",
+    "name": "Gregor Kobel",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 62,
@@ -496,7 +496,7 @@
     }
   },
   {
-    "name": "Justin Bijlow Offensive Goalkeeper A",
+    "name": "Justin Bijlow A",
     "attributes": {
       "Offensive Awareness": 43,
       "Ball Control": 57,
@@ -527,7 +527,7 @@
     }
   },
   {
-    "name": "Justin Bijlow Offensive Goalkeeper B",
+    "name": "Justin Bijlow B",
     "attributes": {
       "Offensive Awareness": 43,
       "Ball Control": 57,
@@ -558,7 +558,7 @@
     }
   },
   {
-    "name": "Justin Bijlow Offensive Goalkeeper C",
+    "name": "Justin Bijlow C",
     "attributes": {
       "Offensive Awareness": 43,
       "Ball Control": 57,
@@ -589,7 +589,7 @@
     }
   },
   {
-    "name": "Kasper Schmeichel Offensive Goalkeeper",
+    "name": "Kasper Schmeichel",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -620,7 +620,7 @@
     }
   },
   {
-    "name": "Manuel Neuer Offensive Goalkeeper",
+    "name": "Manuel Neuer",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 65,
@@ -651,7 +651,7 @@
     }
   },
   {
-    "name": "Marc ter Stegen Offensive Goalkeeper",
+    "name": "Marc ter Stegen",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 80,
@@ -682,7 +682,7 @@
     }
   },
   {
-    "name": "Mike Maignan Offensive Goalkeeper",
+    "name": "Mike Maignan",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 62,
@@ -713,7 +713,7 @@
     }
   },
   {
-    "name": "Nick Pope Offensive Goalkeeper",
+    "name": "Nick Pope",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -744,7 +744,7 @@
     }
   },
   {
-    "name": "Yehvann Diouf Offensive Goalkeeper",
+    "name": "Yehvann Diouf",
     "attributes": {
       "Offensive Awareness": 42,
       "Ball Control": 51,
@@ -775,7 +775,7 @@
     }
   },
   {
-    "name": "Alex Remiro Offensive Goalkeeper",
+    "name": "Alex Remiro",
     "attributes": {
       "Offensive Awareness": 41,
       "Ball Control": 56,
@@ -803,6 +803,68 @@
       "Physical Contact": 71,
       "Balance": 54,
       "Stamina": 56
+    }
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "attributes": {
+      "Offensive Awareness": 42,
+      "Ball Control": 62,
+      "Dribbling": 49,
+      "Tight Possession": 54,
+      "Low Pass": 62,
+      "Lofted Pass": 63,
+      "Finishing": 41,
+      "Heading": 54,
+      "Place Kicking": 62,
+      "Curl": 52,
+      "Defensive Awareness": 51,
+      "Defensive Engagement": 66,
+      "Tackling": 50,
+      "Aggression": 49,
+      "Goalkeeping": 84,
+      "Gk Catching": 82,
+      "GK Parrying": 85,
+      "GK Reflexes": 91,
+      "GK Reach": 93,
+      "Speed": 59,
+      "Acceleration": 60,
+      "Kicking Power": 78,
+      "Jump": 84,
+      "Physical Contact": 81,
+      "Balance": 55,
+      "Stamina": 62
+    }
+  },
+  {
+    "name": "Keylor Navas",
+    "attributes": {
+      "Offensive Awareness": 41,
+      "Ball Control": 62,
+      "Dribbling": 47,
+      "Tight Possession": 49,
+      "Low Pass": 62,
+      "Lofted Pass": 63,
+      "Finishing": 41,
+      "Heading": 55,
+      "Place Kicking": 62,
+      "Curl": 47,
+      "Defensive Awareness": 44,
+      "Defensive Engagement": 62,
+      "Tackling": 47,
+      "Aggression": 51,
+      "Goalkeeping": 92,
+      "Gk Catching": 84,
+      "GK Parrying": 86,
+      "GK Reflexes": 94,
+      "GK Reach": 79,
+      "Speed": 45,
+      "Acceleration": 52,
+      "Kicking Power": 74,
+      "Jump": 92,
+      "Physical Contact": 76,
+      "Balance": 63,
+      "Stamina": 61
     }
   }
 ]

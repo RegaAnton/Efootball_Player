@@ -1517,5 +1517,67 @@
       "Balance": 99,
       "Stamina": 80
     }
+  },
+  {
+    "name": "Richarlison",
+    "attributes": {
+      "Offensive Awareness": 91,
+      "Ball Control": 84,
+      "Dribbling": 86,
+      "Tight Possession": 82,
+      "Low Pass": 68,
+      "Lofted Pass": 66,
+      "Finishing": 84,
+      "Heading": 83,
+      "Place Kicking": 70,
+      "Curl": 77,
+      "Defensive Awareness": 46,
+      "Defensive Engagement": 57,
+      "Tackling": 49,
+      "Aggression": 81,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 77,
+      "Acceleration": 88,
+      "Kicking Power": 83,
+      "Jump": 90,
+      "Physical Contact": 79,
+      "Balance": 77,
+      "Stamina": 80
+    }
+  },
+  {
+    "name": "Alexis Sanchez",
+    "attributes": {
+      "Offensive Awareness": 90,
+      "Ball Control": 86,
+      "Dribbling": 83,
+      "Tight Possession": 81,
+      "Low Pass": 74,
+      "Lofted Pass": 77,
+      "Finishing": 83,
+      "Heading": 69,
+      "Place Kicking": 84,
+      "Curl": 86,
+      "Defensive Awareness": 53,
+      "Defensive Engagement": 64,
+      "Tackling": 57,
+      "Aggression": 67,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 80,
+      "Acceleration": 91,
+      "Kicking Power": 88,
+      "Jump": 78,
+      "Physical Contact": 70,
+      "Balance": 95,
+      "Stamina": 76
+    }
   }
 ]

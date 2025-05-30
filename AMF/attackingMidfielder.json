@@ -1610,5 +1610,36 @@
       "Balance": 75,
       "Stamina": 86
     }
+  },
+  {
+    "name": "Xavi Simons",
+    "attributes": {
+      "Offensive Awareness": 89,
+      "Ball Control": 93,
+      "Dribbling": 92,
+      "Tight Possession": 95,
+      "Low Pass": 85,
+      "Lofted Pass": 83,
+      "Finishing": 80,
+      "Heading": 66,
+      "Place Kicking": 76,
+      "Curl": 81,
+      "Defensive Awareness": 61,
+      "Defensive Engagement": 66,
+      "Tackling": 64,
+      "Aggression": 66,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 81,
+      "Acceleration": 89,
+      "Kicking Power": 79,
+      "Jump": 69,
+      "Physical Contact": 62,
+      "Balance": 92,
+      "Stamina": 81
+    }
   }
 ]

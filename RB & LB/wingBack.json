@@ -1,37 +1,6 @@
 [
   {
-    "name": "Achraf Hakimi Full-back Finisher",
-    "attributes": {
-      "Offensive Awareness": 75,
-      "Ball Control": 76,
-      "Dribbling": 82,
-      "Tight Possession": 67,
-      "Low Pass": 70,
-      "Lofted Pass": 75,
-      "Finishing": 71,
-      "Heading": 69,
-      "Place Kicking": 70,
-      "Curl": 75,
-      "Defensive Awareness": 79,
-      "Defensive Engagement": 83,
-      "Tackling": 82,
-      "Aggression": 86,
-      "Goalkeeping": 41,
-      "Gk Catching": 41,
-      "GK Parrying": 41,
-      "GK Reflexes": 41,
-      "GK Reach": 41,
-      "Speed": 99,
-      "Acceleration": 89,
-      "Kicking Power": 86,
-      "Jump": 72,
-      "Physical Contact": 75,
-      "Balance": 77,
-      "Stamina": 99
-    }
-  },
-  {
-    "name": "Federico Dimarco Full-back Finisher",
+    "name": "Federico Dimarco",
     "attributes": {
       "Offensive Awareness": 76,
       "Ball Control": 83,
@@ -62,7 +31,7 @@
     }
   },
   {
-    "name": "Theo Hernandez Full-back Finisher",
+    "name": "Theo Hernandez",
     "attributes": {
       "Offensive Awareness": 78,
       "Ball Control": 79,
@@ -93,7 +62,7 @@
     }
   },
   {
-    "name": "Alexander Bah Offensive Wingback",
+    "name": "Alexander Bah",
     "attributes": {
       "Offensive Awareness": 78,
       "Ball Control": 79,
@@ -124,7 +93,7 @@
     }
   },
   {
-    "name": "Belletti Offensive Wingback",
+    "name": "Belletti",
     "attributes": {
       "Offensive Awareness": 77,
       "Ball Control": 78,
@@ -155,7 +124,7 @@
     }
   },
   {
-    "name": "Ben White Offensive Wingback",
+    "name": "Ben White",
     "attributes": {
       "Offensive Awareness": 72,
       "Ball Control": 82,
@@ -186,7 +155,7 @@
     }
   },
   {
-    "name": "Dani Carvajal Offensive Wingback",
+    "name": "Dani Carvajal",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 82,
@@ -217,7 +186,7 @@
     }
   },
   {
-    "name": "Danilo Offensive Wingback",
+    "name": "Danilo",
     "attributes": {
       "Offensive Awareness": 71,
       "Ball Control": 80,
@@ -248,7 +217,7 @@
     }
   },
   {
-    "name": "Diogo Dalot Offensive Wingback",
+    "name": "Diogo Dalot",
     "attributes": {
       "Offensive Awareness": 73,
       "Ball Control": 78,
@@ -279,7 +248,7 @@
     }
   },
   {
-    "name": "Federico Valverde Offensive Wingback",
+    "name": "Federico Valverde",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 80,
@@ -310,7 +279,7 @@
     }
   },
   {
-    "name": "Ferdi Kadioglu Offensive Wingback",
+    "name": "Ferdi Kadioglu",
     "attributes": {
       "Offensive Awareness": 71,
       "Ball Control": 82,
@@ -341,7 +310,7 @@
     }
   },
   {
-    "name": "Gerard Martin Offensive Wingback",
+    "name": "Gerard Martin",
     "attributes": {
       "Offensive Awareness": 66,
       "Ball Control": 82,
@@ -372,7 +341,7 @@
     }
   },
   {
-    "name": "Jules Kounde Offensive Wingback",
+    "name": "Jules Kounde",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 80,
@@ -403,7 +372,7 @@
     }
   },
   {
-    "name": "Matteo Darmian Offensive Wingback",
+    "name": "Matteo Darmian",
     "attributes": {
       "Offensive Awareness": 70,
       "Ball Control": 77,
@@ -434,7 +403,7 @@
     }
   },
   {
-    "name": "Renan Lodi Offensive Wingback",
+    "name": "Renan Lodi",
     "attributes": {
       "Offensive Awareness": 73,
       "Ball Control": 82,
@@ -465,7 +434,7 @@
     }
   },
   {
-    "name": "Milos Kerkez Offensive Wingback A",
+    "name": "Milos Kerkez A",
     "attributes": {
       "Offensive Awareness": 74,
       "Ball Control": 80,
@@ -496,7 +465,7 @@
     }
   },
   {
-    "name": "Milos Kerkez Offensive Wingback B",
+    "name": "Milos Kerkez B",
     "attributes": {
       "Offensive Awareness": 74,
       "Ball Control": 80,
@@ -527,7 +496,7 @@
     }
   },
   {
-    "name": "Milos Kerkez Offensive Wingback C",
+    "name": "Milos Kerkez C",
     "attributes": {
       "Offensive Awareness": 74,
       "Ball Control": 80,
@@ -558,7 +527,7 @@
     }
   },
   {
-    "name": "Roberto Carlos Offensive Wingback",
+    "name": "Roberto Carlos",
     "attributes": {
       "Offensive Awareness": 72,
       "Ball Control": 78,
@@ -589,7 +558,7 @@
     }
   },
   {
-    "name": "Nuno Mendes Offensive Wingback A",
+    "name": "Nuno Mendes A",
     "attributes": {
       "Offensive Awareness": 83,
       "Ball Control": 83,
@@ -620,7 +589,7 @@
     }
   },
   {
-    "name": "Nuno Mendes Offensive Wingback B",
+    "name": "Nuno Mendes B",
     "attributes": {
       "Offensive Awareness": 81,
       "Ball Control": 81,
@@ -651,7 +620,7 @@
     }
   },
   {
-    "name": "Nuno Mendes Offensive Wingback C",
+    "name": "Nuno Mendes C",
     "attributes": {
       "Offensive Awareness": 80,
       "Ball Control": 80,
@@ -682,7 +651,7 @@
     }
   },
   {
-    "name": "T. Alexander-Arnold Offensive Wingback A",
+    "name": "T. Alexander-Arnold A",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 84,
@@ -713,7 +682,7 @@
     }
   },
   {
-    "name": "T. Alexander-Arnold Offensive Wingback B",
+    "name": "T. Alexander-Arnold B",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 84,
@@ -744,7 +713,7 @@
     }
   },
   {
-    "name": "T. Alexander-Arnold Offensive Wingback C",
+    "name": "T. Alexander-Arnold C",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 84,
@@ -772,6 +741,99 @@
       "Physical Contact": 71,
       "Balance": 75,
       "Stamina": 95
+    }
+  },
+  {
+    "name": "Marcos Acuna",
+    "attributes": {
+      "Offensive Awareness": 79,
+      "Ball Control": 82,
+      "Dribbling": 82,
+      "Tight Possession": 80,
+      "Low Pass": 77,
+      "Lofted Pass": 85,
+      "Finishing": 64,
+      "Heading": 61,
+      "Place Kicking": 73,
+      "Curl": 84,
+      "Defensive Awareness": 76,
+      "Defensive Engagement": 84,
+      "Tackling": 81,
+      "Aggression": 90,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 85,
+      "Acceleration": 85,
+      "Kicking Power": 94,
+      "Jump": 68,
+      "Physical Contact": 71,
+      "Balance": 91,
+      "Stamina": 94
+    }
+  },
+  {
+    "name": "Gonzalo Montiel",
+    "attributes": {
+      "Offensive Awareness": 75,
+      "Ball Control": 74,
+      "Dribbling": 74,
+      "Tight Possession": 76,
+      "Low Pass": 73,
+      "Lofted Pass": 77,
+      "Finishing": 61,
+      "Heading": 69,
+      "Place Kicking": 59,
+      "Curl": 72,
+      "Defensive Awareness": 74,
+      "Defensive Engagement": 82,
+      "Tackling": 80,
+      "Aggression": 91,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 94,
+      "Acceleration": 89,
+      "Kicking Power": 85,
+      "Jump": 86,
+      "Physical Contact": 72,
+      "Balance": 80,
+      "Stamina": 99
+    }
+  },
+  {
+    "name": "Achraf Hakimi",
+    "attributes": {
+      "Offensive Awareness": 75,
+      "Ball Control": 76,
+      "Dribbling": 82,
+      "Tight Possession": 67,
+      "Low Pass": 70,
+      "Lofted Pass": 75,
+      "Finishing": 71,
+      "Heading": 69,
+      "Place Kicking": 70,
+      "Curl": 75,
+      "Defensive Awareness": 82,
+      "Defensive Engagement": 83,
+      "Tackling": 82,
+      "Aggression": 86,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 99,
+      "Acceleration": 89,
+      "Kicking Power": 86,
+      "Jump": 72,
+      "Physical Contact": 72,
+      "Balance": 77,
+      "Stamina": 99
     }
   }
 ]

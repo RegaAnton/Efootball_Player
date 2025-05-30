@@ -15,8 +15,8 @@ def load_players_from_json(file_path):
     return load_json(file_path)
 
 def main():
-    attributes_weights = load_json("RW & LW/attributes_weights_wingers.json")
-    players = load_players_from_json("RW & LW/wingers.json")
+    attributes_weights = load_json("")
+    players = load_players_from_json("")
     ranked_players = sorted(players, key=lambda p: score_player(p, attributes_weights), reverse=True)
 
     print("Pemain Terbaik :\n")

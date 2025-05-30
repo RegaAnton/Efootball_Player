@@ -744,37 +744,6 @@
     }
   },
   {
-    "name": "Ousmane Dembele",
-    "attributes": {
-      "Offensive Awareness": 79,
-      "Ball Control": 84,
-      "Dribbling": 97,
-      "Tight Possession": 82,
-      "Low Pass": 81,
-      "Lofted Pass": 82,
-      "Finishing": 80,
-      "Heading": 54,
-      "Place Kicking": 72,
-      "Curl": 80,
-      "Defensive Awareness": 49,
-      "Defensive Engagement": 67,
-      "Tackling": 47,
-      "Aggression": 59,
-      "Goalkeeping": 41,
-      "Gk Catching": 41,
-      "GK Parrying": 41,
-      "GK Reflexes": 41,
-      "GK Reach": 41,
-      "Speed": 97,
-      "Acceleration": 95,
-      "Kicking Power": 80,
-      "Jump": 61,
-      "Physical Contact": 63,
-      "Balance": 83,
-      "Stamina": 75
-    }
-  },
-  {
     "name": "Pablo Sarabia",
     "attributes": {
       "Offensive Awareness": 82,
@@ -989,6 +958,37 @@
       "Physical Contact": 55,
       "Balance": 91,
       "Stamina": 84
+    }
+  },
+  {
+    "name": "Ousmane Dembele",
+    "attributes": {
+      "Offensive Awareness": 79,
+      "Ball Control": 95,
+      "Dribbling": 98,
+      "Tight Possession": 92,
+      "Low Pass": 78,
+      "Lofted Pass": 75,
+      "Finishing": 74,
+      "Heading": 50,
+      "Place Kicking": 71,
+      "Curl": 79,
+      "Defensive Awareness": 45,
+      "Defensive Engagement": 57,
+      "Tackling": 43,
+      "Aggression": 54,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 93,
+      "Acceleration": 94,
+      "Kicking Power": 85,
+      "Jump": 55,
+      "Physical Contact": 56,
+      "Balance": 86,
+      "Stamina": 76
     }
   }
 ]
