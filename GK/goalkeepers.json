@@ -866,5 +866,36 @@
       "Balance": 63,
       "Stamina": 61
     }
+  },
+  {
+    "name": "Jordan Pickford",
+    "attributes": {
+      "Offensive Awareness": 41,
+      "Ball Control": 56,
+      "Dribbling": 44,
+      "Tight Possession": 44,
+      "Low Pass": 56,
+      "Lofted Pass": 59,
+      "Finishing": 41,
+      "Heading": 45,
+      "Place Kicking": 56,
+      "Curl": 49,
+      "Defensive Awareness": 46,
+      "Defensive Engagement": 62,
+      "Tackling": 49,
+      "Aggression": 56,
+      "Goalkeeping": 98,
+      "Gk Catching": 88,
+      "GK Parrying": 92,
+      "GK Reflexes": 93,
+      "GK Reach": 89,
+      "Speed": 59,
+      "Acceleration": 62,
+      "Kicking Power": 78,
+      "Jump": 85,
+      "Physical Contact": 70,
+      "Balance": 63,
+      "Stamina": 56
+    }
   }
 ]

@@ -651,7 +651,7 @@
     }
   },
   {
-    "name": "T. Alexander-Arnold A",
+    "name": "T. Alexander-Arnold Offensive Wingback A",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 84,
@@ -682,7 +682,7 @@
     }
   },
   {
-    "name": "T. Alexander-Arnold B",
+    "name": "T. Alexander-Arnold Offensive Wingback B",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 84,
@@ -713,7 +713,7 @@
     }
   },
   {
-    "name": "T. Alexander-Arnold C",
+    "name": "T. Alexander-Arnold Offensive Wingback C",
     "attributes": {
       "Offensive Awareness": 75,
       "Ball Control": 84,
@@ -833,6 +833,37 @@
       "Jump": 72,
       "Physical Contact": 72,
       "Balance": 77,
+      "Stamina": 99
+    }
+  },
+  {
+    "name": "T. Alexander-Arnold Full-back Finisher",
+    "attributes": {
+      "Offensive Awareness": 72,
+      "Ball Control": 83,
+      "Dribbling": 78,
+      "Tight Possession": 81,
+      "Low Pass": 88,
+      "Lofted Pass": 91,
+      "Finishing": 59,
+      "Heading": 55,
+      "Place Kicking": 82,
+      "Curl": 89,
+      "Defensive Awareness": 83,
+      "Defensive Engagement": 90,
+      "Tackling": 88,
+      "Aggression": 85,
+      "Goalkeeping": 41,
+      "Gk Catching": 41,
+      "GK Parrying": 41,
+      "GK Reflexes": 41,
+      "GK Reach": 41,
+      "Speed": 91,
+      "Acceleration": 77,
+      "Kicking Power": 93,
+      "Jump": 75,
+      "Physical Contact": 70,
+      "Balance": 74,
       "Stamina": 99
     }
   }
